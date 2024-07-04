@@ -1,7 +1,7 @@
 :root {
   /* Typography */
-  --primary-font: 'Roboto', sans-serif;
-  --logo-font: 'Raleway', sans-serif;
+  --primary-font: "Roboto", sans-serif;
+  --logo-font: "Raleway", sans-serif;
 
   /* Colors */
   --iris: #4d5ae5;
@@ -335,7 +335,7 @@ a {
 
 .hero-button {
   background-color: var(--iris);
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 16px 32px;
   font-weight: 500;
   color: var(--white);
@@ -530,7 +530,7 @@ a {
 }
 
 .filters-button {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: var(--cloud);
   font-weight: 500;
   letter-spacing: 0.04em;
@@ -741,7 +741,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -959,7 +959,7 @@ a {
   display: block;
   margin: 0 auto;
   background-color: var(--iris);
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   color: var(--white);
   line-height: 1.5;
