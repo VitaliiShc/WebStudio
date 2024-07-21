@@ -1,6 +1,6 @@
 # goit-markup-hw
 
-project for homeworks of html/css course in goit
+Project for homeworks of html/css course in GoIT
 
 Figma (global):
 https://www.figma.com/file/Kr5Q4EVrEAqpOWko4QeEJb/Web-Studio-(Version-4.0)?type=design&node-id=297046%3A1554&mode=dev
