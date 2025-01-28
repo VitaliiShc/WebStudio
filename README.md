@@ -1,9 +1,9 @@
-# goit-markup-hw
+# WebStudio
 
-Project for homeworks of html/css course in GoIT
+The simple site (landing) for web design studio with responsive design.
 
-Figma (global):
-https://www.figma.com/file/Kr5Q4EVrEAqpOWko4QeEJb/Web-Studio-(Version-4.0)?type=design&node-id=297046%3A1554&mode=dev
+Technologies Used: HTML, CSS.
 
-Figma (local):
-https://www.figma.com/file/2Gzhk1blYBVxPmYLhJq1OR/Web-Studio-(Version-4.0)-(Copy)?type=design&node-id=297068%3A2972&mode=dev
+[Link to the preview](https://vitaliishc-webstudio.vercel.app/)
+
+[Link to the mockup](<https://www.figma.com/file/Kr5Q4EVrEAqpOWko4QeEJb/Web-Studio-(Version-4.0)?type=design&node-id=297046%3A1554&mode=dev>)
